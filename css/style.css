@@ -1621,7 +1621,6 @@ footer .credits {
   padding: 1rem 3rem;
   letter-spacing: .05rem;
 }
-
 .btn.btn-a {
   background-color: #000000;
   color: #ffffff;
@@ -1812,6 +1811,7 @@ footer .credits {
     font-size: 1.1rem;
     margin: .5rem 0;
   }
+  
 
   .card-box-d .content-d {
     font-size: .8rem;
